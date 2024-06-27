@@ -1,0 +1,51 @@
+.one{
+    font-family:Arial;
+    font-weight:bold;
+    font-size:18px;
+    width:300;
+    line-height:20px;
+    margin:0px;
+    
+}
+.two{
+    font-family:Arial;
+    color:silver;
+    margin-top:10px;
+}
+.three{
+      font-family:Arial;
+      color:indigo;
+      font-weight:bold;
+      font-size:20px;
+      margin:0;
+}
+.four{
+      font-family:Arial;
+      font-weight:bold;
+      font-size:18px;
+      margin-top:10px;
+      line-height:20px;
+      width:400px;
+      
+}
+.five{
+      font-family:Arial;
+      background-color:red;
+      color:white;
+      text-align: center;
+      font-size:16px;
+      padding-top:19px;
+      padding-bottom:19px;
+
+}
+.fiveu{
+    color:blue;
+            
+}
+.fiveu:hover{
+    text-decoration:underline ;
+    opacity:0.7;
+    cursor:pointer;
+
+
+}

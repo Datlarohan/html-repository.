@@ -1,0 +1,25 @@
+<html>
+<head>
+    <title>Good Timimg</title>
+    <script src="Test.js"></script>
+</head>
+<body>
+<p id="menu">classical coffe list</p>
+<button onclick="changeColor('blue');">blue</button>
+<button onclick="changeColor('red');">red</button>
+<p id="listp">$num</p>
+<button onclick="change('num');">v +</button>
+<p id="p1">$pin</p>
+
+<script>
+    var pin = 0;
+    function change(num) 
+    {
+document.getElementById("p1").innerHTML = pin+1;
+    }
+</script>
+
+<p>The paragraph above was changed by a script.</p>
+
+</body>
+</html>

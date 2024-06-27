@@ -1,0 +1,38 @@
+.one{
+    color:purple;
+    font-size:10px;
+}
+.two{
+    color:green;
+    font-family:italic;
+    font-size:20px;
+}
+.aone{
+    background-color:aqua;
+    color:gold;
+    height:60px;
+    width:400px;
+    text-align:center;
+    margin-right:80px;
+    margin-left:20px;
+}
+.aone:hover{
+    background-color:gold;
+    color:aqua;
+    height:50px;
+}
+.aone:active{
+    width:400px;
+    height:50px;
+    border-bottom:0px;
+    padding-bottom:4px;
+}
+.atwo{
+    background-color:pink;
+    text-align:centre;
+    height:50px;
+    width:200px;
+}
+.Thumbnail1{
+    width:300px;
+}
